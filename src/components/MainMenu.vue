@@ -23,7 +23,8 @@ export default {
           children: [
             { label: '组件复用', url: '/reusingcomponent' },
             { label: '单例第一页', url: '/singleton1' },
-            { label: '单例第二页', url: '/singleton2' }
+            { label: '单例第二页', url: '/singleton2' },
+            { label: 'test', url: '/test' }
           ]
         }
       ]
