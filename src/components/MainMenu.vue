@@ -24,7 +24,8 @@ export default {
             { label: '组件复用', url: '/reusingcomponent' },
             { label: '单例第一页', url: '/singleton1' },
             { label: '单例第二页', url: '/singleton2' },
-            { label: 'test', url: '/test' }
+            { label: 'test', url: '/test' },
+            { label: '渲染函数', url: '/render1' }
           ]
         }
       ]
