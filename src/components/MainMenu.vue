@@ -27,6 +27,13 @@ export default {
             { label: 'test', url: '/test' },
             { label: '渲染函数', url: '/render1' }
           ]
+        },
+        {
+          label: '第三方库',
+          icon: 'perm_identity',
+          children: [
+            { label: '拖拽', url: '/drag' }
+          ]
         }
       ]
     }
